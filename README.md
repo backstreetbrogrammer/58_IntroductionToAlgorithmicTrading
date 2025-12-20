@@ -4,6 +4,13 @@
 > computer algorithms to automate trading decisions in financial markets. This can include strategies for buying and
 > selling assets based on predefined criteria, such as price movements, volume, and other market indicators.
 
+## Tools used
+
+- Java
+- Python
+- IBKR API
+- C++
+
 ## Table of Contents
 
 1. [Algorithmic Trading Overview](https://github.com/backstreetbrogrammer/58_IntroductionToAlgorithmicTrading?tab=readme-ov-file#1-algorithmic-trading-overview)
@@ -11,7 +18,11 @@
 3. [Single-Order Algorithms]()
 4. [Multi-Order Algorithms]()
 5. [Smart Routers]()
-6. [Performance Measurement]()
+6. [Risk Assessment]()
+7. [Performance Measurement]()
+8. [High-Frequency Trading]()
+9. [Statistical Arbitrage]()
+10. [Other Trading Strategies]()
 
 ---
 
@@ -23,7 +34,7 @@ It aims to optimize trading efficiency, reduce costs, and minimize human error.
 
 Common strategies include trend following, mean reversion, and arbitrage.
 
-### Trading Algorithm
+### Trading Algorithm 101
 
 ![Algorithm](Algorithm.PNG)
 
@@ -38,7 +49,7 @@ In terms of simple flowchart, a trading algorithm can be represented as follows:
 - **Input Market Data**: The algorithm receives real-time market data, including prices, volumes, and other relevant
   information.
 - **Analyze Data**: The algorithm analyzes the incoming data using predefined rules and strategies.
-- **Generate Signals**: Based on the analysis, the algorithm generates buy or sell signals.
+- **Generate Signals**: Based on the analysis, the algorithm generates buy or sell or hold signals.
 - **Execute Orders**: The algorithm executes the trades based on the generated signals.
 - **Monitor Performance**: The algorithm continuously monitors the performance of executed trades and adjusts
   strategies as needed.
@@ -47,6 +58,8 @@ In terms of simple flowchart, a trading algorithm can be represented as follows:
 
 There is another aspect of trading like **risk management** and **compliance** which is not covered here.
 
+### Stock Markets 101
 
+### Fundamental Principles In Trading
 
 

@@ -14,6 +14,9 @@
 ## Table of Contents
 
 1. [Algorithmic Trading Overview](https://github.com/backstreetbrogrammer/58_IntroductionToAlgorithmicTrading?tab=readme-ov-file#1-algorithmic-trading-overview)
+   - Trading Algorithm 101
+   - Stock Markets 101
+   - Fundamental Principles In Trading
 2. [Setting Up Development Environment]()
 3. [Single-Order Algorithms]()
 4. [Multi-Order Algorithms]()
@@ -23,6 +26,12 @@
 8. [High-Frequency Trading]()
 9. [Statistical Arbitrage]()
 10. [Other Trading Strategies]()
+
+## Youtube
+
+![IntroductionToAlgorithmicTrading](IntroductionToAlgorithmicTrading.png)
+
+[Introduction To Algorithmic Trading playlist](https://www.youtube.com/playlist?list=PLQDzPczdXrTjU7O6HAKDgm_mLvlDqFl3Y)
 
 ---
 

@@ -15,7 +15,8 @@
 
 1. [Algorithmic Trading Overview](https://github.com/backstreetbrogrammer/58_IntroductionToAlgorithmicTrading?tab=readme-ov-file#1-algorithmic-trading-overview)
    - Trading Algorithm 101
-   - Stock Markets 101
+   - Trading Terminologies
+   - Quant Trading 101
    - Fundamental Principles In Trading
 2. [Setting Up Development Environment]()
 3. [Single-Order Algorithms]()
@@ -67,7 +68,9 @@ In terms of simple flowchart, a trading algorithm can be represented as follows:
 
 There is another aspect of trading like **risk management** and **compliance** which is not covered here.
 
-### Stock Markets 101
+---
+
+### Trading Terminologies
 
 **What is a Stock?**
 
@@ -110,6 +113,8 @@ So I gave `50%` of my ownership to the investors via stocks / shares and now, I 
 and also `50%` of profit.
 
 ---
+
+**Types Of Trading Desks**
 
 There are mainly two reasons to be involved in the markets:
 
@@ -163,6 +168,8 @@ its own funds.
 
 In summary, agency trading focuses on serving clients, while proprietary trading focuses on generating profits for the
 firm.
+
+### Quant Trading 101
 
 ### Fundamental Principles In Trading
 

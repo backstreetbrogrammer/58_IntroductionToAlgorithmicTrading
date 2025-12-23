@@ -14,10 +14,10 @@
 ## Table of Contents
 
 1. [Algorithmic Trading Overview](https://github.com/backstreetbrogrammer/58_IntroductionToAlgorithmicTrading?tab=readme-ov-file#1-algorithmic-trading-overview)
-   - Trading Algorithm 101
-   - Trading Terminologies
-   - Quant Trading 101
-   - Fundamental Principles In Trading
+    - Trading Algorithm 101
+    - Trading Terminologies
+    - Quant Trading 101
+    - Fundamental Principles In Trading
 2. [Setting Up Development Environment]()
 3. [Single-Order Algorithms]()
 4. [Multi-Order Algorithms]()
